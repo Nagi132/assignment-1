@@ -3,7 +3,10 @@
 This repository is the starter code for Assignment 1 - Zoo.
 
 ### Live Link
-[Website link](https://johnnylaicode.github.io/zoo-starter-code/)
+[Website link](https://Nagi132.github.io/assignment1-zoo/)
+
+### Group Members
+Nagi Williams
 
 ----------
 ### 1. Use the following process to ***import*** the Assignment 1 starter code repository to your GitHub account as your starter codebase
